@@ -1,0 +1,7 @@
+<html t:type="layout" pageTitle="About vote"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About vote application ...</p>
+
+</html>

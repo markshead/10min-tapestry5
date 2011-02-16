@@ -1,0 +1,7 @@
+<html t:type="layout" pageTitle="Contact  net.tap5"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>Contact  net.tap5 ...</p>
+
+</html>
