@@ -1,0 +1,13 @@
+This is a simple application created in about 10 minutes that shows how to
+use Tapestry 5 to create a very basic web application along the lines of
+Reddit, Digg or Hacker News.  It lets users add links and vote up the ones
+they find interesting.
+
+It was created as a demonstration and is not at all something you want to run
+in production, but it should give you a very good idea of what programming
+using the Tapestry framework is like.
+
+See more information and the screencast at:
+
+http://blog.markwshead.com/900/tapestry-5-10-minute-demo/
+
